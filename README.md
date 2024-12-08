@@ -57,6 +57,13 @@ Replace `day1` with the desired day (`day2`, `day3`, etc.).
 - Goal: Familiarize myself with Rust's syntax and basic concepts.
 
 
+## 📕 Materials used
+
+- 📚 Official [Rust Book](https://doc.rust-lang.org/book).
+- 📗 [Comprehensive Rust](https://google.github.io/comprehensive-rust/) course by Google.
+- 📺 [Learn Rust Programming](https://www.youtube.com/watch?v=BpPEoZW5IiY) course on Youtube.
+- 🤖 [ChatGPT](https://chatgpt.com) as an instructor, not for coding ;-) 
+
 ## 🤝 Contributing
 
 This is a personal learning project, so external contributions are not expected. However, suggestions or feedback are always welcome!
