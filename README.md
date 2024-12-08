@@ -59,6 +59,7 @@ Replace `day1` with the desired day (`day2`, `day3`, etc.).
 
 ## 📕 Materials used
 
+- 📔[Rust in Action](https://www.rustinaction.com/) by Tim McNamara.
 - 📚 Official [Rust Book](https://doc.rust-lang.org/book).
 - 📗 [Comprehensive Rust](https://google.github.io/comprehensive-rust/) course by Google.
 - 📺 [Learn Rust Programming](https://www.youtube.com/watch?v=BpPEoZW5IiY) course on Youtube.
